@@ -24,7 +24,7 @@ plt.rcParams['figure.dpi'] = 300
 # %pip install glob2
 
 import glob
-files = glob.glob('sample_data/datalar/*')
+files = glob.glob('sample_data/*')
 
 
 # Impdar's loading function
